@@ -1,0 +1,118 @@
+header{
+	background-color:#D0E1F9; 
+	text-align:center;
+	padding:10px 0px; 
+  }
+Body{
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.30),rgba(0,0,0,0.30)), url(/img/bg10-removebg-preview.png);
+    background-position: right;
+    background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+	margin: 0;
+}
+header{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding-top: 30px;
+	padding-left: 8%;
+	padding-right: 8%;
+	background-color: ;
+	position: ;
+	width: auto;
+	}
+ul li:hover{
+	  background-color: #07145D;
+	  transition-delay: 0.05s;
+}
+.logoupb{
+	width: 150px;
+	height: 100px;
+	
+}
+	
+	header ul li{
+	list-style-type: none;
+	display: inline-block;
+	background-color:#f9004d;
+	color: white;
+	text-decoration: none;
+	border: 2px solid transparent;
+	font-weight: bold;
+	padding: 10px 25px;
+	border-radius: 30px;
+	transition: transform .4s; 
+	}
+	header ul li a{
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	text-transform: capitalize;
+	}
+	header ul li a:hover{
+	color: white;
+	
+	}
+.content{
+	color: white;
+	position: absolute;
+	top: 50%;
+	left:8%;
+	transform: translateY(-50%);
+	
+}
+nav{
+	background-color:#D0E1F9; 
+  	text-align:center;
+  	padding:10px 0px; 
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding-top: 30px;
+	padding-left: 8%;
+	padding-right: 8%;
+	background-color: ;
+	
+}
+.logo{
+	width: 150px;
+	height: 100px;
+	
+}
+
+
+
+h1{
+	color: white;
+	margin: 20px 0px 20px;
+	font-size: 75px;
+}
+
+.about-text p{
+	color: white;
+	letter-spacing: 1px;
+	line-height: 28px;
+	font-size: 18px;
+	margin-bottom: 45px;
+}
+.contents p{
+	text-align:justify;
+	margin-bottom:50px;
+	line-height:2;
+  }
+  footer {
+	background:#323232;
+	padding:10px;
+	height:25px;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	color: white;
+	
+  }
+footer p{
+	text-align: center;
+	margin: bottom 5px;
+}
